@@ -1,4 +1,4 @@
-## Click [Here](./video.html) to watch the demo video for the program.
+[![Click Here to watch the demo video](https://img.youtube.com/vi/3u4y4tRerwo/maxresdefault.jpg)](https://youtu.be/3u4y4tRerwo)
 
 ## Layered System Architecture
 <img width="1704" height="974" alt="hardware_struct" src="https://github.com/user-attachments/assets/3e768872-c0c5-457a-8174-9b2a873b2ca1" />
